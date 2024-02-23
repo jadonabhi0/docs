@@ -15,6 +15,8 @@ topics:
 shortTitle: Missing contributions
 ---
 
+
+
 ## About your contribution graph
 
 Your profile contributions graph is a record of contributions you've made to repositories on {% data variables.location.product_location %}. Contributions are timestamped according to Coordinated Universal Time (UTC) rather than your local time zone. Contributions are only counted if they meet certain criteria. In some cases, we may need to rebuild your graph in order for contributions to appear.
